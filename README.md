@@ -11,9 +11,11 @@
    <a href="https://calculadora-imc-ten-mu.vercel.app/" target="_blank">Teste agora mesmo!</a>
 </footer>
 
-<section>
-  ![Imagem ilustrativa da calculadora na versão web](https://github.com/user-attachments/assets/2b81f0cb-9916-4bea-a799-fb72aa736360) ![Imagem ilustrativa da calculadora na versão mobile](https://github.com/user-attachments/assets/2ee9917d-17f3-4ba4-a6ff-a7f449dd1631)
-</section>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2ee9917d-17f3-4ba4-a6ff-a7f449dd1631" alt="Imagem ilustrativa da calculadora na versão mobile">
+<img src="https://github.com/user-attachments/assets/2b81f0cb-9916-4bea-a799-fb72aa736360" alt="Imagem ilustrativa da calculadora na versão web"> 
+</div>
+ 
 
 
 
