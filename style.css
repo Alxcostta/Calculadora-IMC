@@ -162,6 +162,9 @@ body{
 .normal {
     color: #16a34a;
 }
+.moderade{
+    color: yellow;
+}
 
 .attention {
     color: #dc2626;
@@ -186,8 +189,3 @@ body{
     justify-content: center;
     }
 }
-
-
-
-
-
