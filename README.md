@@ -8,7 +8,7 @@
 </section>
 
 <footer>
-   <a href="https://calculadora-imc-ten-mu.vercel.app/" target="_blank">Teste agora mesmo!</a>
+   <a href="" target="_blank">Teste agora mesmo!</a>
 </footer>
 
 <div align="center">
