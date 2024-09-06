@@ -8,7 +8,7 @@
   <p> O resultado é apresentado em 3 diferentes cores com uma respectiva frase sobre o nível do IMC apresentado.</p>  
 </section>
 <footer>
-   <a href="https://www.lollapaloozabr.com/](https://calculadora-imc-ten-mu.vercel.app/)" target="_blank">Teste agora mesmo!</a>
+   <a href="https://calculadora-imc-ten-mu.vercel.app/" target="_blank">Teste agora mesmo!</a>
 </footer>
 
   
